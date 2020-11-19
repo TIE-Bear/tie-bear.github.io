@@ -1,0 +1,24 @@
+body {
+    background-color: #22333B;
+    color: #C6AC8F;
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: 24px;
+}
+
+.header {
+    background-color: #EAE0D5;
+    color: #5E503F;
+    font-size: 32px;
+    padding: 10px;
+}
+
+img {
+    height: 300px;
+    width: 320px;
+}
+
+input {
+    width: 300px;
+    
+}
